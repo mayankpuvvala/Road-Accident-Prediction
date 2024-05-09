@@ -4,6 +4,13 @@
 
 The Road Accident Prediction System is a comprehensive solution designed to enhance road safety by leveraging machine learning (ML), deep learning (DL), computer vision (CV), and real-time data analysis techniques. The system aims to predict potential road accidents by analyzing video input from a camera module installed in vehicles. It detects various traffic signals, identifies potholes, performs real-time anomaly detection (such as unauthorized pedestrian crossings), and detects objects and obstacles in the vehicle's field of vision. Additionally, it analyzes the driver's behavior based on inputs like acceleration, brake, and throttle to assess potential risks.
 
+
+## Video Demonstration
+
+[![Road Accident Prediction System Demo Video](IML_Image.jpg)]((https://youtu.be/MW94F3wbfgM))
+
+Click the image above to watch a demonstration of the Road Accident Prediction System.
+
 ## Technologies Used
 
 - Machine Learning (ML)
