@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+keras
+torch
+numpy
+pandas
+scikit-learn
+paho-mqtt
