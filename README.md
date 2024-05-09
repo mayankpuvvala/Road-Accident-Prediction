@@ -6,7 +6,7 @@ The Road Accident Prediction System is a comprehensive solution designed to enha
 
 ## Video Demonstration
 
-[![Road Accident Prediction System Demo Video](IML_Image.jpg)]([https://youtu.be/vCkKCScJBUE]))
+[![Road Accident Prediction System Demo Video](IML_Image.jpg)]([https://youtu.be/vCkKCScJBUE])
 
 Click the image above to watch a demonstration of the Road Accident Prediction System.
 
